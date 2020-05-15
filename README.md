@@ -61,10 +61,10 @@ Devido a isso o bundle.js (arquivo convertido de ES6 para Javascript - browsers 
 
 ### Projeto em produção
 
-Explain what these tests test and why
+Para executar o projeto em modo de produção, basta utilizar o comando:
 
 ```
-Give an example
+yarn build
 ```
 
 ## Construído com
