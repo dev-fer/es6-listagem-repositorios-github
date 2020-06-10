@@ -24,24 +24,10 @@ node -v
 yarn -v
 ```
 
-E então, via terminal, acesse a pasta do clone deste repositório e execute os comandos abaixo para instalar as dependências do projeto:
+E então, via terminal, acesse a pasta do clone deste repositório e execute o comando abaixo para instalar as dependências do projeto:
 
 ```
-yarn add @babel/cli
-
-yarn add @babel/preset-env
-
-yarn add @babel/plugin-proposal-object-rest-spread
-
-yarn add webpack webpack-cli -D
-
-yarn add babel-loader -D
-
-yarn add @babel/plugin-transform-async-to-generator -D
-
-yarn add @babel/polyfill -D
-
-yarn add axios
+yarn
 ```
 
 Agora o projeto está pronto para ser utilizado.
